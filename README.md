@@ -1,13 +1,2 @@
 # Salary Prediction System
  Demo
-
-
-
-
-
-
-
-
-
-
-
